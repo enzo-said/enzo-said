@@ -6,9 +6,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-!<!---
-enzo-said/enzo-said is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 ![Mes statistiques GitHub](https://github-readme-stats.vercel.app/api?username=enzo-said&show_icons=true&theme=radical&count_private=true)  ![Langues les plus utilisées](https://github-readme-stats.vercel.app/api/top-langs/?username=dehlia-neiss&layout=compact&theme=radical)
